@@ -101,3 +101,16 @@ Use hero shards / Spin Lucky Wheel / Gather resources / Use Red stone (FC shards
 ⨉ DON’T: 
 Upgrade pets / Upgrade hero gear / Upgrade chief gear and charms / Use other speedups / Call rallies for Polar Terror 
 ```
+
+### Day 3
+
+#### Alliance / Chat Message / Notice
+
+```
+SVS DAY 3
+
+√ kill level 26+ beast (10 stamina = 12000 points) 
+√ call rally for polar terror (25 stamina = 30000 points) 
+√ spin lucky wheel 
+√ use hero shards 
+```
