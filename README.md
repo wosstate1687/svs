@@ -4,7 +4,6 @@
 
 #### Alliance Message: 
 
-
 ```
 SVS DAY ONE
 
@@ -70,7 +69,6 @@ SVS DAY TWO
 - Upgrade hero gear 
 - Upgrade chief gear / charms 🔸 
 - Use other speedups  
-- Call rallies for Polar Terror 
 
 Good luck! See you tomorrow for day 3 :)
 ```
@@ -81,13 +79,14 @@ Good luck! See you tomorrow for day 3 :)
 SVS DAY TWO
 
 ✅ DO:
-- Use hero shards 
-- Spin Lucky Wheel
+- Use hero shards  and Spin Lucky Wheel
 - Gather resources 🍖
 - Use Red stone (FC shards) and upgrade technology 
 
 🚫 DON’T:
-Upgrade pets 🐾 / Upgrade hero gear  / Upgrade chief gear / charms 🔸 / Use other speedups  / Call rallies for Polar Terror 
+- Upgrade pets 🐾 and hero gear  
+- Upgrade chief gear / charms 🔸 
+- Use other speedups  
 ```
 
 #### Alliance Notice: 
@@ -99,18 +98,17 @@ SVS DAY TWO
 Use hero shards / Spin Lucky Wheel / Gather resources / Use Red stone (FC shards) and upgrade technology
 
 ⨉ DON’T: 
-Upgrade pets / Upgrade hero gear / Upgrade chief gear and charms / Use other speedups / Call rallies for Polar Terror 
+Upgrade pets / Upgrade hero gear / Upgrade chief gear and charms / Use other speedups 
 ```
 
 ### Day 3
-
 #### Alliance / Chat Message / Notice
 
 ```
 SVS DAY 3
 
-√ kill level 26+ beast (10 stamina = 12000 points) 
-√ call rally for polar terror (25 stamina = 30000 points) 
-√ spin lucky wheel 
-√ use hero shards 
+√ Kill level 26+ beast (10 stamina = 12000 points) 
+√ Call rally for polar terror (25 stamina = 30000 points) 
+√ Spin lucky wheel 
+√ Use hero shards 
 ```
