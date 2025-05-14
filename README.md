@@ -92,6 +92,21 @@ SVS DAY TWO
 #### Alliance Notice: 
 
 ```
+SVS DAY TWO 
+
+√ DO: 
+- Use hero shards and Spin Lucky Wheel 
+- Gather resources 
+- Use Red stone (FC shards) and upgrade technology 
+
+⨉ DON’T: 
+- Upgrade pets and hero gear 
+- Upgrade chief gear and charms 
+- Use other speedups 
+```
+or
+
+```
 SVS DAY TWO
 
 √ DO: 
