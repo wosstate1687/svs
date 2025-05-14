@@ -14,7 +14,7 @@ SVS DAY ONE
 
 🚫 DON’T:
 - Upgrade pets 🐾 and chief gear
-- Use hero upgrades 
+- Use hero upgrades 
 - Use any other speedups 
 ```
 
