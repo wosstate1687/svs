@@ -32,7 +32,7 @@ SVS DAY ONE
 - Use Fire Crystals 
 
 🚫 DON’T:
-Upgrade pets 🐾 / Upgrade hero shards  / Upgrade Gear / Use any other speedups 
+Upgrade pets 🐾 / Use hero shards  / Upgrade Gear / Use any other speedups 
 
 Good luck! See you tomorrow for Day #2 :)
 ```
@@ -48,7 +48,7 @@ SVS DAY ONE
 - Use Fire Crystals
 
 ⨉ DON’T:
-Upgrade pets / Upgrade hero shards / Upgrade Gear / Use any other speed-ups
+Upgrade pets / Use hero shards / Upgrade Gear / Use any other speed-ups
 ```
 
 ### Day 2:
@@ -122,8 +122,53 @@ Upgrade pets / Upgrade hero gear / Upgrade chief gear and charms / Use other spe
 ```
 SVS DAY 3
 
-√ Kill level 26+ beast (10 stamina = 12000 points) 
-√ Call rally for polar terror (25 stamina = 30000 points) 
-√ Spin lucky wheel 
-√ Use hero shards 
+√ DO: 
+- Kill level 26+ beast (10 stamina = 12000 points) 
+- Call rally for polar terror (25 stamina = 30000 points) 
+- Spin lucky wheel and Use hero shards 
+
+⨉ DON’T: 
+- Upgrade pets 🐾
+- Upgrade chief and hero gear  
+```
+
+### Day 4
+#### Alliance / Chat Message
+```
+SVS DAY 4 
+
+✅ DO: 
+- Train / promote troops 
+- Upgrade Chief Charms 🔸 
+
+🚫 DON’T: 
+- Upgrade pets 🐾 and hero gear   
+- Upgrade chief gear 
+- Use any other speedups 
+```
+
+#### Alliance Notice
+```
+SVS DAY 4 
+
+√ DO: 
+- Train / promote troops
+- Upgrade Chief Charms 
+
+⨉ DON’T: 
+- Upgrade pets and hero gear
+- Upgrade chief gear 
+- Use any other speedups
+```
+
+### Day 5
+#### Alliance / Chat Message / Notice
+```
+SVS DAY 5
+
+√ Upgrade Chief Gear 
+√ Use all remaining speedups 
+√ Use Fire Crystals (Shards) 
+√ Hero Gear upgrades  (Essence stones, Widgets, Mithril)
+√ Pet upgrades 🐾
 ```
